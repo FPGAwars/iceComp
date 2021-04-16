@@ -86,7 +86,7 @@
           "id": "6a4aee2c-1dca-415c-985e-0d91380147fe",
           "type": "basic.info",
           "data": {
-            "info": "# Comp2-2bit: Manual testing",
+            "info": "# Comp2-2bits: Manual testing",
             "readonly": true
           },
           "position": {
