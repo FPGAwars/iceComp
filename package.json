@@ -1,0 +1,18 @@
+{
+  "name": "icecomp",
+  "version": "0.1.0",
+  "description": "Icestudio collection with comparators",
+  "keywords": ["comparators"],
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "Juan Gonzalez-Gomez (Obijuan)",
+    "email": "",
+    "url": "https://github.com/Obijuan"
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "master",
+    "url": "https://github.com/FPGAwars/iceComp"
+  }
+}
