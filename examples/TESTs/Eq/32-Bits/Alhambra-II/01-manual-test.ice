@@ -3575,9 +3575,9 @@
     },
     "2e666c77dff9b4fede562a9be8c42326bd9ae66b": {
       "package": {
-        "name": "comp2-32bits",
-        "version": "0.1",
-        "description": "Comp2-32bit: Comparator of two 32-bit numbers",
+        "name": "Eq-32bits",
+        "version": "0.2",
+        "description": "Eq-32bit: Compare if two 32-bit numbers are equal",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22312.756%22%20height=%22168.82%22%20viewBox=%220%200%20293.20803%20158.26888%22%3E%3Cg%20font-weight=%22400%22%20letter-spacing=%220%22%20word-spacing=%220%22%20font-family=%22sans-serif%22%20stroke-width=%22.057%22%3E%3Cg%20style=%22line-height:125%25%22%3E%3Cpath%20d=%22M0%200h293.209v53.747H-.001zm0%20104.064h293.209v54.205H-.001z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2296.3%22%20fill=%22#00f%22/%3E%3C/g%3E%3C/g%3E%3C/svg%3E",
         "otid": 1618594740929
@@ -4968,8 +4968,7 @@
             {
               "source": {
                 "block": "b6c5a5ee-e228-44ab-8767-05836b10e55d",
-                "port": "bbc72c72-9eec-46c2-aeff-4233b746b9c2",
-                "size": 8
+                "port": "bbc72c72-9eec-46c2-aeff-4233b746b9c2"
               },
               "target": {
                 "block": "57f9a324-2e6e-4123-a79e-ad69ca9c3e2f",
@@ -4980,8 +4979,7 @@
             {
               "source": {
                 "block": "86af6169-9d78-4375-b594-37980386c12b",
-                "port": "bbc72c72-9eec-46c2-aeff-4233b746b9c2",
-                "size": 8
+                "port": "bbc72c72-9eec-46c2-aeff-4233b746b9c2"
               },
               "target": {
                 "block": "f1ec9a74-0d32-45d1-bf72-90535d0be165",
@@ -4996,8 +4994,7 @@
               },
               "target": {
                 "block": "45eb3900-c7a0-4816-b901-c139f1401a23",
-                "port": "ab9bcc04-115a-4689-8d9c-b191681a3dde",
-                "size": 8
+                "port": "ab9bcc04-115a-4689-8d9c-b191681a3dde"
               },
               "size": 8
             },
@@ -5008,16 +5005,14 @@
               },
               "target": {
                 "block": "45eb3900-c7a0-4816-b901-c139f1401a23",
-                "port": "44eeec20-79b3-40e8-a9b9-df85c51cec3c",
-                "size": 8
+                "port": "44eeec20-79b3-40e8-a9b9-df85c51cec3c"
               },
               "size": 8
             },
             {
               "source": {
                 "block": "b6c5a5ee-e228-44ab-8767-05836b10e55d",
-                "port": "ab69e2b6-41cb-4145-883c-ff7d66e29c69",
-                "size": 8
+                "port": "ab69e2b6-41cb-4145-883c-ff7d66e29c69"
               },
               "target": {
                 "block": "1d01c85f-5495-457c-9de2-cb8d24bdeea1",
@@ -5028,8 +5023,7 @@
             {
               "source": {
                 "block": "86af6169-9d78-4375-b594-37980386c12b",
-                "port": "ab69e2b6-41cb-4145-883c-ff7d66e29c69",
-                "size": 8
+                "port": "ab69e2b6-41cb-4145-883c-ff7d66e29c69"
               },
               "target": {
                 "block": "1aef79ec-277a-4a91-b851-5e4690b0086e",
@@ -5044,8 +5038,7 @@
               },
               "target": {
                 "block": "0ce00c21-b605-4a59-b051-84188600ca30",
-                "port": "ab9bcc04-115a-4689-8d9c-b191681a3dde",
-                "size": 8
+                "port": "ab9bcc04-115a-4689-8d9c-b191681a3dde"
               },
               "size": 8
             },
@@ -5056,16 +5049,14 @@
               },
               "target": {
                 "block": "0ce00c21-b605-4a59-b051-84188600ca30",
-                "port": "44eeec20-79b3-40e8-a9b9-df85c51cec3c",
-                "size": 8
+                "port": "44eeec20-79b3-40e8-a9b9-df85c51cec3c"
               },
               "size": 8
             },
             {
               "source": {
                 "block": "b6c5a5ee-e228-44ab-8767-05836b10e55d",
-                "port": "9854725b-1481-43d8-88b9-7f4e3e46e935",
-                "size": 8
+                "port": "9854725b-1481-43d8-88b9-7f4e3e46e935"
               },
               "target": {
                 "block": "a946d788-3431-4164-bd9c-de8bfcf16698",
@@ -5076,8 +5067,7 @@
             {
               "source": {
                 "block": "86af6169-9d78-4375-b594-37980386c12b",
-                "port": "9854725b-1481-43d8-88b9-7f4e3e46e935",
-                "size": 8
+                "port": "9854725b-1481-43d8-88b9-7f4e3e46e935"
               },
               "target": {
                 "block": "c1de5e5d-4e74-4a56-9d2f-0273affb940a",
@@ -5092,8 +5082,7 @@
               },
               "target": {
                 "block": "5161f496-b2d6-41e3-88f8-d8fba8b21ce2",
-                "port": "ab9bcc04-115a-4689-8d9c-b191681a3dde",
-                "size": 8
+                "port": "ab9bcc04-115a-4689-8d9c-b191681a3dde"
               },
               "size": 8
             },
@@ -5104,16 +5093,14 @@
               },
               "target": {
                 "block": "5161f496-b2d6-41e3-88f8-d8fba8b21ce2",
-                "port": "44eeec20-79b3-40e8-a9b9-df85c51cec3c",
-                "size": 8
+                "port": "44eeec20-79b3-40e8-a9b9-df85c51cec3c"
               },
               "size": 8
             },
             {
               "source": {
                 "block": "b6c5a5ee-e228-44ab-8767-05836b10e55d",
-                "port": "cd24bb12-b3ea-4587-845c-24eb04db0e7d",
-                "size": 8
+                "port": "cd24bb12-b3ea-4587-845c-24eb04db0e7d"
               },
               "target": {
                 "block": "51888eb5-a68b-402d-90c2-027575f75436",
@@ -5124,8 +5111,7 @@
             {
               "source": {
                 "block": "86af6169-9d78-4375-b594-37980386c12b",
-                "port": "cd24bb12-b3ea-4587-845c-24eb04db0e7d",
-                "size": 8
+                "port": "cd24bb12-b3ea-4587-845c-24eb04db0e7d"
               },
               "target": {
                 "block": "f926b07a-d905-47f7-a3de-bb9b6065048d",
@@ -5140,8 +5126,7 @@
               },
               "target": {
                 "block": "5974ff29-b619-416a-9983-16688d7aa673",
-                "port": "ab9bcc04-115a-4689-8d9c-b191681a3dde",
-                "size": 8
+                "port": "ab9bcc04-115a-4689-8d9c-b191681a3dde"
               },
               "size": 8
             },
@@ -5152,8 +5137,7 @@
               },
               "target": {
                 "block": "5974ff29-b619-416a-9983-16688d7aa673",
-                "port": "44eeec20-79b3-40e8-a9b9-df85c51cec3c",
-                "size": 8
+                "port": "44eeec20-79b3-40e8-a9b9-df85c51cec3c"
               },
               "size": 8
             },
