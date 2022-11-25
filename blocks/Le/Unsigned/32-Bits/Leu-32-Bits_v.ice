@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Leu-32-Bits",
+    "name": "Leu-32-Bits_v",
     "version": "0.2",
     "description": "Leu-32-Bits_v: 32-bit Unsigned Less than or equal comparator. Verilog implementation",
     "author": "Juan González-Gómez (Obijuan)",
